@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/siralexeu/my-views-counter)
 
-### :octocat: [MyGameList](https://github.com/siralexeu/MyGameList)
-![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/large/year.png)
+### :octocat: [Multimedia](https://github.com/siralexeu/Multimedia)
+![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/877737208/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/6/15 1:29 PM UTC</i></small>
+<small><i>Last updated on 2026/6/15 1:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/945964477/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/877737208/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/877737208/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/945964477/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/877737208/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/877737208/week.md)
 ```
 ### Header
-# MyGameList [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/year.md)
+# Multimedia [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/877737208/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/877737208/year.md)
 ```readme
-# MyGameList [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/year.md)
+# Multimedia [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/877737208/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/877737208/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/6/12 12:00 AM UTC
+			2026/6/13 12:00 AM UTC
 		</td>
 		<td>
 			1
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/6/12 12:00 AM UTC
+			2026/6/13 12:00 AM UTC
 		</td>
 		<td>
 			0
@@ -67,9 +67,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1270148328/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/siralexeu/my-views-counter/tree/master/readme/1019745206/year.md">
+				TW
+			</a>
+		</td>
+		<td>
+			2026/6/12 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1019745206/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/siralexeu/my-views-counter/tree/master/readme/877737208/year.md">
+				Multimedia
+			</a>
+		</td>
+		<td>
+			2026/6/12 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/877737208/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/siralexeu/my-views-counter/tree/master/readme/992194885/year.md">
+				Pachete-software
+			</a>
+		</td>
+		<td>
+			2026/6/12 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/992194885/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/15 1:24 PM UTC</i></small>
+<small><i>Last updated on 2026/6/15 1:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
