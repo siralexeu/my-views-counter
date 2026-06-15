@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/siralexeu/my-views-counter)
 
-### :octocat: [siralexeu](https://github.com/siralexeu/siralexeu)
-![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/large/year.png)
+### :octocat: [MyGameList](https://github.com/siralexeu/MyGameList)
+![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/6/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1019566027/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/945964477/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1019566027/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/945964477/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/week.md)
 ```
 ### Header
-# siralexeu [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/year.md)
+# MyGameList [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/year.md)
 ```readme
-# siralexeu [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/year.md)
+# MyGameList [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/945964477/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/945964477/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

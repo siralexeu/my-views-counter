@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/siralexeu/my-views-counter)
 
-### :octocat: [siralexeu](https://github.com/siralexeu/siralexeu)
-![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/large/year.png)
+### :octocat: [my-views-counter](https://github.com/siralexeu/my-views-counter)
+![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/graph/1270148328/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1019566027/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1270148328/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1270148328/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1019566027/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/week.md)
+[![Image of my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/1270148328/badge.svg)](https://github.com/siralexeu/my-views-counter/blob/master/readme/1270148328/week.md)
 ```
 ### Header
-# siralexeu [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/year.md)
+# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1270148328/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1270148328/year.md)
 ```readme
-# siralexeu [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1019566027/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1019566027/year.md)
+# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/siralexeu/my-views-counter/blob/master/graph/1270148328/small/year.png" height="20">](https://github.com/siralexeu/my-views-counter/blob/master/readme/1270148328/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -35,9 +35,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1019566027/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/siralexeu/my-views-counter/tree/master/readme/945964477/year.md">
+				MyGameList
+			</a>
+		</td>
+		<td>
+			2026/6/12 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/945964477/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/siralexeu/my-views-counter/tree/master/readme/1270148328/year.md">
+				my-views-counter
+			</a>
+		</td>
+		<td>
+			2026/6/12 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1270148328/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/15 1:15 PM UTC</i></small>
+<small><i>Last updated on 2026/6/15 1:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
