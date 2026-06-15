@@ -19,10 +19,11 @@ jobs:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
       - name: Build shields JSON
         run: |
-          NUM=$(grep -oE '>[0-9,]+<' svg/profile/badge.svg | head -1 | tr -d '><,')
+          NUM=$(grep -oE '>[0-9,]+<' svg/profile/badge.svg 2>/dev/null | head -1 | tr -d '><,' || true)
+          NUM=${NUM:-0}
           echo "{\"schemaVersion\":1,\"label\":\"Profile views\",\"message\":\"$NUM\",\"color\":\"333333\"}" > views.json
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add views.json
           git commit -m "update views.json" || echo "nimic de comis"
-          git push
+          git push || echo "push esuat"
