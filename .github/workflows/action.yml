@@ -33,7 +33,7 @@ jobs:
           print(total)
           ")
           echo "{\"schemaVersion\":1,\"label\":\"Profile views\",\"message\":\"$VIEWS\",\"color\":\"333333\"}" > views.json
-          echo "{\"schemaVersion\":1,\"label\":\"Unique visitors\",\"message\":\"$UNIQUE\",\"color\":\"197cae\"}" > unique.json
+          echo "{\"schemaVersion\":1,\"label\":\"Unique visitors\",\"message\":\"$UNIQUE\",\"color\":\"333333\"}" > unique.json
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add views.json unique.json
