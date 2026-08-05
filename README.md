@@ -149,12 +149,11 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/5 9:34 AM UTC</i></small>
+<small><i>Last updated on 2026/8/5 9:53 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
 [![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
-![Unique Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/siralexeu/my-views-counter/master/unique.json&style=flat-square)
 
 ```readme
 [![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
