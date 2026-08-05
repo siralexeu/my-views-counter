@@ -154,6 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
 [![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
+![Unique Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/siralexeu/my-views-counter/master/unique.json&style=flat-square)
 
 ```readme
 [![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
