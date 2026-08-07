@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:04 AM UTC
+			2026/8/5 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1019566027/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1019566027/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:04 AM UTC
+			2026/8/5 9:04 AM UTC
 		</td>
 		<td>
 			2
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:04 AM UTC
+			2026/8/5 12:00 AM UTC
 		</td>
 		<td>
-			4
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1270148328/small/year.png" height="20"> 68
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1270148328/small/year.png" height="20"> 148
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:04 AM UTC
+			2026/8/5 9:04 AM UTC
 		</td>
 		<td>
 			1
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:05 AM UTC
+			2026/8/5 9:05 AM UTC
 		</td>
 		<td>
 			1
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 9:05 AM UTC
+			2026/8/5 9:05 AM UTC
 		</td>
 		<td>
 			1
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 12:00 AM UTC
+			2026/8/5 12:00 AM UTC
 		</td>
 		<td>
-			10
+			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1310335924/small/year.png" height="20"> 127
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1310335924/small/year.png" height="20"> 132
 		</td>
 	</tr>
 	<tr>
@@ -138,18 +138,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/8/4 12:00 AM UTC
+			2026/8/5 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1284984272/small/year.png" height="20"> 3
+			<img alt="Response time graph" src="https://github.com/siralexeu/my-views-counter/raw/master/graph/1284984272/small/year.png" height="20"> 5
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/6 2:20 PM UTC</i></small>
+<small><i>Last updated on 2026/8/7 12:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
